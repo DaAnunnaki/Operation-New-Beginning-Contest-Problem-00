@@ -6,9 +6,9 @@
 The Operation New Beginning is a process of sending humans to outer space to conlonize a new planet. Since it'd take at least hundred of years to reach to the destiny,
 everyone on the ship will be put into freezies. Once they have arrived near the new planet, they will be awaked.
 
-The Operation will begin on July 2015, you will be assisting on a list of crewmates for space ship 07. Please organize the list by following below:
+The Operation will begin on May 2015, you will be assisting on a list of crewmates for space ship 07. Please organize the list by following below:
 1. Reorder members by their last name's fisrt letter (a, b, c...)
-2. Calculate their age till July 2015
+2. Calculate their age till July 2015 (ex: DOB of May 2000 will be only 14 years old because they are already in freezie by may).
 3. the last column is wether or not they will be attending the specific "ship 07" or not, if not, they are excluded and age is reset to 00.
 
 
@@ -25,14 +25,14 @@ name age included/excluded
 example:
 
 Input:
-Lisa Osmorey Dec 09, 1987 yes
-Dean McKenny Mar 18, 2000 no
-Marie Fersal Oct 03, 1983 no
-Elisabeth Carman Apr 23, 1995 yes
+Lisa Osmorey Dec 09 1987 yes
+Dean McKenny Mar 18 2000 no
+Marie Fersal Oct 03 1983 no
+Elisabeth Carman Apr 23 1995 yes
 
 Output:
 Elisabeth Carman 20 included
-Marie Fersal 00 excluded
-Dean McKenny 00 excluded
+Marie Fersal 0 excluded
+Dean McKenny 0 excluded
 Lisa Osmorey 27 included
 
