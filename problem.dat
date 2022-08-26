@@ -9,7 +9,7 @@ everyone on the ship will be put into freezies. Once they have arrived near the 
 The Operation will begin on May 2015, you will be assisting on a list of crewmates for space ship 07. Please organize the list by following below:
 1. Reorder members by their last name's fisrt letter (a, b, c...)
 2. Calculate their age till July 2015 (ex: DOB of May 2000 will be only 14 years old because they are already in freezie by may).
-3. the last column is wether or not they will be attending the specific "ship 07" or not, if not, they are excluded and age is reset to 00.
+3. the last column is wether or not they will be attending the specific "ship 07" or not, if not, they are excluded and age is reset to 0.
 
 
 
