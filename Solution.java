@@ -30,7 +30,7 @@ import java.util.*;
                 String yesNo = scan.next();
                 
                 int agee = 2015-year;
-                if(!(month.contains("Jan")||!month.contains("Feb")||month.contains("Mar")||month.contains("Apr"))){
+                if(!(month.contains("Jan")||month.contains("Feb")||month.contains("Mar")||month.contains("Apr"))){
                     agee--;
                 }
                 
